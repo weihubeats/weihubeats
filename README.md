@@ -16,5 +16,6 @@
 - [**shenyu**](https://github.com/apache/shenyu)
 - [**shardingsphere**](https://github.com/apache/shardingsphere)
 - [**TLog**](https://github.com/dromara/TLog)
+- [**RocketMQ**](https://github.com/apache/RocketMQ)
 
 
