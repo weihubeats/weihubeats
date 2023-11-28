@@ -17,5 +17,9 @@
 - [**shardingsphere**](https://github.com/apache/shardingsphere)
 - [**TLog**](https://github.com/dromara/TLog)
 - [**RocketMQ**](https://github.com/apache/RocketMQ)
-
+#### 🌱 我的开源项目: 
+- [**Asuna**](https://github.com/weihubeats/Asuna) 觉得比较有意思或者有用的开源项目整理
+- [**event-bus-rocketmq-all**](https://github.com/weihubeats/event-bus-rocketmq-all) 基于RocketMQ二次封装的领域事件
+- [**spring-boot-nebula**](https://github.com/weihubeats/spring-boot-nebula) spring boot common
+- [**mq-idempotent**](https://github.com/weihubeats/mq-idempotent) mq幂等框架开箱即用
 
