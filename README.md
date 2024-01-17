@@ -22,4 +22,5 @@
 - [**event-bus-rocketmq-all**](https://github.com/weihubeats/event-bus-rocketmq-all) 基于RocketMQ二次封装的领域事件
 - [**spring-boot-nebula**](https://github.com/weihubeats/spring-boot-nebula) spring boot common
 - [**mq-idempotent**](https://github.com/weihubeats/mq-idempotent) mq幂等框架开箱即用
+- [**ddd-example**](https://github.com/weihubeats/ddd-example) ddd落地分包规范及组件定义
 
