@@ -23,4 +23,4 @@
 - [**spring-boot-nebula**](https://github.com/weihubeats/spring-boot-nebula) spring boot common
 - [**mq-idempotent**](https://github.com/weihubeats/mq-idempotent) mq幂等框架开箱即用
 - [**ddd-example**](https://github.com/weihubeats/ddd-example) ddd落地分包规范及组件定义
-
+- [**weihubeats_demos**](https://github.com/weihubeats/weihubeats_demos) 平时学习及博客源码、文章
