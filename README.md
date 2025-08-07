@@ -26,4 +26,5 @@
 - [**weihubeats_demos**](https://github.com/weihubeats/weihubeats_demos) 平时学习及博客源码、文章
 - [**fluxcache**](https://github.com/weihubeats/fluxcache) 多级缓存框架、支持dashboard操作缓存
 - [**mybatis-plus-generator**](https://github.com/weihubeats/mybatis-plus-generator) mybatis plus 代码自动生成器
+- [**enum-generate**](https://github.com/weihubeats/enum-generate) java枚举插件，根据注释自动生成枚举代码
 
