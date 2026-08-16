@@ -45,6 +45,12 @@
   <a href="https://github.com/weihubeats/mybatis-plus-generator">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=mybatis-plus-generator&theme=tokyonight&border_radius=8" />
   </a>
+  <a href="https://github.com/weihubeats/RustFox">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=RustFox&theme=tokyonight&border_radius=8" />
+  </a>
+  <a href="https://github.com/weihubeats/ignite">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=ignite&theme=tokyonight&border_radius=8" />
+  </a>
 </p>
 
 <details>
