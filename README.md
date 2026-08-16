@@ -1,30 +1,88 @@
-### Hi everyone, This is weihubeats, nice to meet you.
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<!-- Header Banner & Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%A3%2C+I'm+weihubeats;Java+%26+Go+Developer;Middleware+%26+Cloud+Native;Creator+of+%E5%B0%8F%E2%85%8F%E6%8A%80%EC%9C%AF" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=weihubeats&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://blog.csdn.net"><img src="https://img.shields.io/badge/公众号-小奏技术-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
+  <a href="https://github.com/weihubeats"><img src="https://img.shields.io/github/stars/weihubeats?style=for-the-badge&color=2bbc8a" alt="Stars" /></a>
+  <a href="https://github.com/weihubeats"><img src="https://img.shields.io/github/followers/weihubeats?style=for-the-badge&color=61afef" alt="Followers" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weihubeats&layout=compact&exclude_repo=weihubeats.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-#### 🌱 我参与的开源项目: 
-- [**spring-cloud-tencent**](https://github.com/Tencent/spring-cloud-tencent)
-- [**spring-cloud-kubernetes**](https://github.com/spring-cloud/spring-cloud-kubernetes)
-- [**hippo4j**](https://github.com/opengoofy/hippo4j)
-- [**eventmesh**](https://github.com/apache/eventmesh)
-- [**skywalking**](https://github.com/apache/skywalking)
-- [**shenyu**](https://github.com/apache/shenyu)
-- [**shardingsphere**](https://github.com/apache/shardingsphere)
-- [**TLog**](https://github.com/dromara/TLog)
-- [**RocketMQ**](https://github.com/apache/RocketMQ)
-#### 🌱 我的开源项目: 
-- [**Asuna**](https://github.com/weihubeats/Asuna) 觉得比较有意思或者有用的开源项目整理
-- [**event-bus-rocketmq-all**](https://github.com/weihubeats/event-bus-rocketmq-all) 基于RocketMQ二次封装的领域事件
-- [**spring-boot-nebula**](https://github.com/weihubeats/spring-boot-nebula) spring boot common
-- [**mq-idempotent**](https://github.com/weihubeats/mq-idempotent) mq幂等框架开箱即用
-- [**ddd-example**](https://github.com/weihubeats/ddd-example) ddd落地分包规范及组件定义
-- [**weihubeats_demos**](https://github.com/weihubeats/weihubeats_demos) 平时学习及博客源码、文章
-- [**fluxcache**](https://github.com/weihubeats/fluxcache) 多级缓存框架、支持dashboard操作缓存
-- [**mybatis-plus-generator**](https://github.com/weihubeats/mybatis-plus-generator) mybatis plus 代码自动生成器
-- [**enum-generate**](https://github.com/weihubeats/enum-generate) idea插件，根据注释自动生成枚举代码
+---
 
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,spring,docker,kubernetes,mysql,postgres,redis,elasticsearch,kafka,linux,git,idea,vscode" alt="Skills" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weihubeats&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weihubeats&layout=compact&exclude_repo=weihubeats.github.io&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+### 🔥 Featured Open Source Projects
+
+<p align="center">
+  <a href="https://github.com/weihubeats/spring-boot-nebula">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=spring-boot-nebula&theme=tokyonight&border_radius=8" />
+  </a>
+  <a href="https://github.com/weihubeats/mq-idempotent">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=mq-idempotent&theme=tokyonight&border_radius=8" />
+  </a>
+  <a href="https://github.com/weihubeats/fluxcache">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=fluxcache&theme=tokyonight&border_radius=8" />
+  </a>
+  <a href="https://github.com/weihubeats/mybatis-plus-generator">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=mybatis-plus-generator&theme=tokyonight&border_radius=8" />
+  </a>
+</p>
+
+<details>
+<summary><b>📂 更多自研开源项目 (Click to expand)</b></summary>
+<br/>
+
+* ✉️ [**event-bus-rocketmq-all**](https://github.com/weihubeats/event-bus-rocketmq-all) — 基于 RocketMQ 二次封装的领域事件总线。
+* 🏗️ [**ddd-example**](https://github.com/weihubeats/ddd-example) — DDD 落地分包规范、核心组件定义与最佳实践。
+* 🧩 [**enum-generate**](https://github.com/weihubeats/enum-generate) — IntelliJ IDEA 插件，根据字段注释自动生成枚举代码。
+* 📚 [**Asuna**](https://github.com/weihubeats/Asuna) — 优质开源项目与实用工具库分类收集整理。
+* 📝 [**weihubeats_demos**](https://github.com/weihubeats/weihubeats_demos) — 个人技术博客配套示例源码与学习 Demo。
+
+</details>
+
+---
+
+### 🤝 Community Contributions
+
+经常参与主流开源社区的 Build 与 Bugfix：
+
+| 社区/组织 | 项目 |
+| :--- | :--- |
+| **Apache Software Foundation** | [RocketMQ](https://github.com/apache/RocketMQ) · [EventMesh](https://github.com/apache/eventmesh) · [SkyWalking](https://github.com/apache/skywalking) · [ShenYu](https://github.com/apache/shenyu) · [ShardingSphere](https://github.com/apache/shardingsphere) |
+| **Spring Ecosystem** | [spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) |
+| **Tencent & Open Source** | [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) · [hippo4j](https://github.com/opengoofy/hippo4j) · [TLog](https://github.com/dromara/TLog) |
+
+---
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihubeats/weihubeats/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weihubeats/weihubeats/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weihubeats/weihubeats/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <b>weihubeats</b> | 微信公众号：<b>小奏技术</b></sub>
+</div>
