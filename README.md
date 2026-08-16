@@ -24,8 +24,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weihubeats&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weihubeats&layout=compact&exclude_repo=weihubeats.github.io&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=weihubeats&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img height="180em" src="https://ghchart.rshah.org/weihubeats" alt="Contribution Chart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/weihubeats?style=for-the-badge&logo=github&color=61afef" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/weihubeats?style=for-the-badge&logo=github&color=2bbc8a" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/weihubeats?style=for-the-badge&logo=github&color=2bbc8a" alt="Public Repos" />
 </p>
 
 ---
