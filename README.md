@@ -32,26 +32,50 @@
 
 ### 🔥 Featured Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/weihubeats/spring-boot-nebula">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=spring-boot-nebula&theme=tokyonight&border_radius=8" />
-  </a>
-  <a href="https://github.com/weihubeats/mq-idempotent">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=mq-idempotent&theme=tokyonight&border_radius=8" />
-  </a>
-  <a href="https://github.com/weihubeats/fluxcache">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=fluxcache&theme=tokyonight&border_radius=8" />
-  </a>
-  <a href="https://github.com/weihubeats/mybatis-plus-generator">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=mybatis-plus-generator&theme=tokyonight&border_radius=8" />
-  </a>
-  <a href="https://github.com/weihubeats/RustFox">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=RustFox&theme=tokyonight&border_radius=8" />
-  </a>
-  <a href="https://github.com/weihubeats/ignite">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=weihubeats&repo=ignite&theme=tokyonight&border_radius=8" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/weihubeats/spring-boot-nebula">spring-boot-nebula</a></b><br/>
+      Spring Boot 通用组件库：开箱即用的 Web 组件、分布式锁组件等<br/>
+      <img src="https://img.shields.io/github/stars/weihubeats/spring-boot-nebula?style=flat-square&logo=github&color=61afef" alt="Stars" />
+      <img src="https://img.shields.io/github/languages/top/weihubeats/spring-boot-nebula?style=flat-square" alt="Language" />
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/weihubeats/mq-idempotent">mq-idempotent</a></b><br/>
+      MQ 幂等框架，开箱即用，支持 RocketMQ、RabbitMQ、Kafka<br/>
+      <img src="https://img.shields.io/github/stars/weihubeats/mq-idempotent?style=flat-square&logo=github&color=61afef" alt="Stars" />
+      <img src="https://img.shields.io/github/languages/top/weihubeats/mq-idempotent?style=flat-square" alt="Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/weihubeats/fluxcache">fluxcache</a></b><br/>
+      Spring Boot 多级缓存框架：Caffeine + Redisson，含 Dashboard 监控<br/>
+      <img src="https://img.shields.io/github/stars/weihubeats/fluxcache?style=flat-square&logo=github&color=61afef" alt="Stars" />
+      <img src="https://img.shields.io/github/languages/top/weihubeats/fluxcache?style=flat-square" alt="Language" />
+    </td>
+    <td>
+      <b><a href="https://github.com/weihubeats/mybatis-plus-generator">mybatis-plus-generator</a></b><br/>
+      基于 Go 实现的 MyBatis-Plus 代码生成器，开箱即用无需额外依赖<br/>
+      <img src="https://img.shields.io/github/stars/weihubeats/mybatis-plus-generator?style=flat-square&logo=github&color=61afef" alt="Stars" />
+      <img src="https://img.shields.io/github/languages/top/weihubeats/mybatis-plus-generator?style=flat-square" alt="Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="https://github.com/weihubeats/RustFox">RustFox</a></b><br/>
+      高性能本地优先的 API 调试工具：Rust + Tauri 2 + Vue 3，Postman 平替<br/>
+      <img src="https://img.shields.io/github/stars/weihubeats/RustFox?style=flat-square&logo=github&color=61afef" alt="Stars" />
+      <img src="https://img.shields.io/github/languages/top/weihubeats/RustFox?style=flat-square" alt="Language" />
+    </td>
+    <td>
+      <b><a href="https://github.com/weihubeats/ignite">ignite</a></b><br/>
+      IDEA 插件：集成 Arthas，右键即可快速执行 Java/Spring 方法<br/>
+      <img src="https://img.shields.io/github/stars/weihubeats/ignite?style=flat-square&logo=github&color=61afef" alt="Stars" />
+      <img src="https://img.shields.io/github/languages/top/weihubeats/ignite?style=flat-square" alt="Language" />
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>📂 更多自研开源项目 (Click to expand)</b></summary>
